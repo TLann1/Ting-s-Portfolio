@@ -14,7 +14,7 @@
 
 ## Contribution
 
-自主完成衍生个人设计项目，负责从复杂设计意图到 AI 原型生成工具的方向延展与设计表达。
+Solo work
 
 ## Process
 
